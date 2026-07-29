@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+requests
+rdkit
+xgboost
+torch
+torch-geometric
+deepchem
+chemprop
+biopython
+meeko
+vina
+tqdm

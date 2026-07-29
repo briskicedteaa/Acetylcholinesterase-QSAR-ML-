@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large project files
+data/raw/
+data/processed/
+models/*.joblib
+models/*.pkl
+models/*.pt
+docking/
+checkpoints/
+*.pdbqt
+*.sdf
+*.mol2
