@@ -1,0 +1,9 @@
+final_rank,candidate_name,final_tier,predicted_pIC50,rf_tree_sd,nearest_training_similarity,best_pose_score,median_pose_score,dominant_geometry,dominant_geometry_fraction
+1,irbesartan,Primary finalist,6.65,0.531,0.677,-11.978,-11.052,spanning/dual-site,0.8
+2,FK-866,Primary finalist,6.477,0.75,0.492,-11.13,-10.112,spanning/dual-site,1.0
+3,RS-67506,Primary finalist,6.585,0.773,0.721,-9.369,-8.962,spanning/dual-site,1.0
+4,VU0238429,Primary finalist,6.324,0.816,0.5,-10.341,-9.806,deep-site dominant,0.7
+5,ML277,Secondary finalist,6.072,0.795,0.529,-11.058,-9.718,spanning/dual-site,0.6
+6,lomerizine,Secondary finalist,6.074,0.715,0.66,-10.734,-8.958,spanning/dual-site,0.6
+7,efletirizine,Reserve candidate,6.382,1.037,0.581,-9.428,-8.218,deep-site dominant,0.6
+8,ML141,Deprioritized,7.112,1.383,0.59,-8.97,-8.585,peripheral-site dominant,0.9

@@ -1,0 +1,9 @@
+ligand_id,candidate_name,predicted_pIC50,rf_tree_sd,best_pose_score,median_pose_score,best_pose_geometry,dominant_geometry,dominant_geometry_fraction,top3_best_geometry_fraction,geometry_stability
+EXT_01,irbesartan,6.65,0.531,-11.978,-11.052,spanning/dual-site,spanning/dual-site,0.8,1.0,high
+EXT_04,FK-866,6.477,0.75,-11.13,-10.112,spanning/dual-site,spanning/dual-site,1.0,1.0,high
+EXT_07,ML277,6.072,0.795,-11.058,-9.718,spanning/dual-site,spanning/dual-site,0.6,1.0,moderate
+EXT_08,lomerizine,6.074,0.715,-10.734,-8.958,spanning/dual-site,spanning/dual-site,0.6,1.0,moderate
+EXT_05,VU0238429,6.324,0.816,-10.341,-9.806,deep-site dominant,deep-site dominant,0.7,1.0,high
+EXT_06,efletirizine,6.382,1.037,-9.428,-8.218,deep-site dominant,deep-site dominant,0.6,1.0,moderate
+EXT_03,RS-67506,6.585,0.773,-9.369,-8.962,spanning/dual-site,spanning/dual-site,1.0,1.0,high
+EXT_02,ML141,7.112,1.383,-8.97,-8.585,spanning/dual-site,peripheral-site dominant,0.9,0.333,high
